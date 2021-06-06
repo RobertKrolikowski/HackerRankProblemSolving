@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{3DC112E0-E56D-428C-8335-91D7AA5FD119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{AC866826-1325-4D42-9DFD-E228E3459A91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DC112E0-E56D-428C-8335-91D7AA5FD119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC112E0-E56D-428C-8335-91D7AA5FD119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC112E0-E56D-428C-8335-91D7AA5FD119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC866826-1325-4D42-9DFD-E228E3459A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC866826-1325-4D42-9DFD-E228E3459A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC866826-1325-4D42-9DFD-E228E3459A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC866826-1325-4D42-9DFD-E228E3459A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
