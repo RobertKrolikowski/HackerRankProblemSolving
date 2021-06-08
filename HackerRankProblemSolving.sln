@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingTheRecords", "Break
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{99531C58-DA5B-4626-936E-321872D62BDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{3DC112E0-E56D-428C-8335-91D7AA5FD119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{3DC112E0-E56D-428C-8335-91D7AA5FD119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{AC866826-1325-4D42-9DFD-E228E3459A91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{AC866826-1325-4D42-9DFD-E228E3459A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{E0653A60-865D-4285-9AB0-CA305C869A47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AC866826-1325-4D42-9DFD-E228E3459A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC866826-1325-4D42-9DFD-E228E3459A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC866826-1325-4D42-9DFD-E228E3459A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0653A60-865D-4285-9AB0-CA305C869A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0653A60-865D-4285-9AB0-CA305C869A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0653A60-865D-4285-9AB0-CA305C869A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0653A60-865D-4285-9AB0-CA305C869A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
