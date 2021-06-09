@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "Diago
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{AC866826-1325-4D42-9DFD-E228E3459A91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{E0653A60-865D-4285-9AB0-CA305C869A47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{E0653A60-865D-4285-9AB0-CA305C869A47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{400EFB1A-F4ED-472B-B8EF-A515EACE5C1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{400EFB1A-F4ED-472B-B8EF-A515EACE5C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDigits", "FindDigits\FindDigits.csproj", "{9213F1A6-A4F6-4A7F-AB65-CF8249EAC2F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDigits", "FindDigits\FindDigits.csproj", "{9213F1A6-A4F6-4A7F-AB65-CF8249EAC2F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{6B181314-137B-4197-B06A-EFF30E3B3F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{6B181314-137B-4197-B06A-EFF30E3B3F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{45B7D434-54EE-4A34-AB0E-5761EF81A9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6B181314-137B-4197-B06A-EFF30E3B3F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B181314-137B-4197-B06A-EFF30E3B3F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B181314-137B-4197-B06A-EFF30E3B3F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B7D434-54EE-4A34-AB0E-5761EF81A9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B7D434-54EE-4A34-AB0E-5761EF81A9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B7D434-54EE-4A34-AB0E-5761EF81A9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B7D434-54EE-4A34-AB0E-5761EF81A9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
