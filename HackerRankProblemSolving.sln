@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{7E52E864-1136-45EA-9517-70B065C0D135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "ViralAdvertising\ViralAdvertising.csproj", "{5036076C-F754-4CCD-A3F8-05953EF32957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7E52E864-1136-45EA-9517-70B065C0D135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E52E864-1136-45EA-9517-70B065C0D135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E52E864-1136-45EA-9517-70B065C0D135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5036076C-F754-4CCD-A3F8-05953EF32957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5036076C-F754-4CCD-A3F8-05953EF32957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5036076C-F754-4CCD-A3F8-05953EF32957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5036076C-F754-4CCD-A3F8-05953EF32957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
